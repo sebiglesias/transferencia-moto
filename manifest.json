@@ -1,0 +1,16 @@
+{
+  "name": "Calculadora de Transferencia de Moto DNRPA 2026",
+  "short_name": "Transferencia Moto",
+  "description": "Calculá el costo total de transferir una moto en Argentina: aranceles DNRPA, sellos provinciales (CABA, PBA, Córdoba), 08 digital y verificación.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
